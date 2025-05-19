@@ -1,3 +1,5 @@
+-- DATABASE STRUCTURE
+
 -- Create Lib_users table
 CREATE TABLE Lib_users (
     user_id VARCHAR2(20) PRIMARY KEY,
